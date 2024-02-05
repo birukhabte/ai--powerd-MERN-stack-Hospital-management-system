@@ -24,3 +24,4 @@ export const requireAuth = async (
     res.status(401).json({ message: "Unauthorized" });
   }
 };
+// Updated on 2026-04-14
