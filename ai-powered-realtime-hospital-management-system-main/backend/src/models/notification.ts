@@ -30,3 +30,4 @@ export default mongoose.model<INotification>(
   "Notification",
   NotificationSchema,
 );
+// Updated on 2026-04-14
