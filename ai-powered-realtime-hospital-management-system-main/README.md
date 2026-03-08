@@ -365,3 +365,4 @@ For support, email support@hospital-management.com or open an issue in the repos
 ---
 
 Built with ❤️ for better healthcare management
+
